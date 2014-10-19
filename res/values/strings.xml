@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeLogger</string>
+    
+    <string name="new_hourglass">New Hourglass</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">There is never enough time in a day</string>
+    <string name="delete_hourglass">Delete</string>
+    <string name="hourglass_title_hint">Enter the title of this Hourglass</string>
+    <string name="hourglass_title">Hourglasses</string>
+    <string name="hourglass_start_button">Start</string>
+    <string name="hourglass_pause_button">Pause</string>
+    <string name="hourglass_reset_button">Reset</string>
+    
+
+</resources>
